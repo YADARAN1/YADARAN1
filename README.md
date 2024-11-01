@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I am a backend developer specializing in C# and ASP.NET Core. I build scalable, efficient, and secure web applications and APIs, with a focus on server-side logic, database management, and integration with front-end services. My expertise includes designing clean architectures, implementing business logic, and ensuring optimal performance and security for web solutions.
 
 * 🌍  I'm based in Russia
-* 🚀  I'm currently working on [sachkov-tech](http://github.com/KirillSachkov/sachkov-tech)
+* 🚀  I'm currently working on [sachkov-tech](https://github.com/SachkovTech)
 * 🤝  I'm open to collaborating on everything
 
 ### Skills
